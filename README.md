@@ -125,7 +125,7 @@ Practice these exercises in a browser-based environment at [Zero2Claude](https:/
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## More from AIFlowLearn
+## Related Repos
 
 - [awesome-claude-code](https://github.com/aiflowlearn/awesome-claude-code) — This repo
 - [zero2claude](https://github.com/aiflowlearn/zero2claude) — Learn Claude Code from zero
@@ -138,7 +138,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## License
 
 - Code (hooks, settings, commands): [MIT](LICENSE-MIT)
-- Content (knowledge, exercises, wiki schemas): [CC BY-NC-SA 4.0](LICENSE-CC-BY-NC-SA)
+- Content (knowledge, exercises, practices, wiki schemas, CLAUDE.md templates): [CC BY-NC-SA 4.0](LICENSE-CC-BY-NC-SA)
 
 ---
 
